@@ -20,3 +20,4 @@ jobs:
         with:
           name: mcMMO
           path: staging 
+          retention-days: 1
